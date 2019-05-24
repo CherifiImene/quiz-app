@@ -1,8 +1,19 @@
+body{
+    background-image: linear-gradient(
+        rgba(0, 0, 0, 0.5),
+        rgba(0, 0, 0, 0.5)
+      ),url(../images/quiz_background.jpg);
+    background-repeat: repeat ,no-repeat;
+    background-size: 100%;
+}
 h1{
     text-align: center;
-    font-size: 40px;
+    font-size: 50px;
     position: relative;
     top: 150px;
+    color:  #424242;
+    font-family:  cursive;
+    text-shadow: -1px 0 #e0e0e0, 0 1px #e0e0e0, 1px 0 #e0e0e0, 0 -1px #e0e0e0; 
 }
 main {
     text-align: center;
@@ -13,5 +24,16 @@ a{
     text-decoration: none;
 }
 button {
-    padding: 30px;
+    padding: 40px 70px 40px 70px;
+    border-radius: 10px;
+    background-color: #546e7a;
+    margin: 1px;
+    font-family: 'Montserrat', sans-serif;
+}
+a {
+    height: 100%;
+    width: 100%;
+    padding: 40px 70px 40px 70px;
+    color: aliceblue;
+    font-size: 18px;
 }
