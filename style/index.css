@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    font-size: 40px;
+    position: relative;
+    top: 150px;
+}
+main {
+    text-align: center;
+    position: relative;
+    top: 200px;
+}
+a{
+    text-decoration: none;
+}
+button {
+    padding: 30px;
+}

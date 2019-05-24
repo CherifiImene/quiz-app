@@ -1,0 +1,14 @@
+header {
+    margin-left: 20px; 
+    font-size: 30px;
+}
+/*.list-choices {
+    text-align: center;
+}*/
+.choice {
+    padding: 35px;
+    font-size: 20px;
+}
+.hidden {
+    display: none;
+}
